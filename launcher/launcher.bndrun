@@ -1,0 +1,4 @@
+-runrequires: bnd.identity;id='init.requirement'
+-runbundles: \
+	SampleB;version=snapshot,\
+	init.requirement;version=snapshot

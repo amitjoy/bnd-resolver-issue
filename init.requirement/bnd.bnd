@@ -1,0 +1,2 @@
+Require-Capability: \
+	com.amitinside.module;filter:="(capability=*)";cardinality:=multiple
